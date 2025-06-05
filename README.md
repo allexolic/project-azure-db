@@ -9,7 +9,7 @@ Acessar o painel de gerenciamento Azure e na barra lateral selecionar 'Banco de 
 Passo 2
 
 Clicar em criar para adicionar novo banco de dados.
-Nas configurações básicas é obrigatório informar grupo de recursos, nome do banco de dados e o servidor do banco de dados.
+Nas configurações básicas é obrigatório informar sua assinatura, grupo de recursos, nome do banco de dados e o servidor do banco de dados.
 
 Para fins de testes, podemos criar um novo grupo e um novo servidor.
 Para criar o grupo, informamos somente um nome.
